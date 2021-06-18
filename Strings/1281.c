@@ -40,34 +40,3 @@ int main(){
 
     return 0;
 }
-
-/*#include <stdio.h>
-#include <string.h>
-
-int main(){
-
-    int N, M, P;
-    int i, j;
-    int quant;
-    double preco;
-    char produtos[51];
-
-    scanf("%d", &N);
-
-    for(i = 0; i < N; i++){
-        scanf("%d", &M);
-        for(j = 0; j < M; j++){
-            scanf("%s %lf", produtos, &preco);
-        }
-        scanf("%d", &P);
-        for(j = 0; j < P; j++){
-            scanf("%s %d", produtos, &quant);
-        }
-
-
-
-    }
-
-
-    return 0;
-}*/
