@@ -1,19 +1,3 @@
-/*#include <stdio.h>
-
-int main() {
-
-    int N, i, valor;
-
-    scanf("%d", &N);
-
-    for(i = 0; i < N; i++){
-        scanf("%d", &valor);
-    }
-
-
-    return 0;
-}*/
-
 #include <stdio.h>
 
 
