@@ -2,10 +2,10 @@
 
 /* implemente aqui sua funcao */
 
-// função para saber o menor valor do array
+// funÃ§Ã£o para saber o menor valor do array
 int Menor(int arr[], int quant, int menor){
     int i;
-    //encontra o valor mínimo
+    //encontra o valor mÃ­nimo
     menor = arr[0];
     for(i = 1; i < quant; i++){
         if(arr[i] < menor){
@@ -16,7 +16,7 @@ int Menor(int arr[], int quant, int menor){
 
 }
 
-// função para saber o maior valor do array
+// funÃ§Ã£o para saber o maior valor do array
 int Maior(int arr[], int quant, int maior){
     int i;
     // encontra o valor maximo
@@ -46,27 +46,3 @@ int main(void){
     printf("%d %d\n", min, max);
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
